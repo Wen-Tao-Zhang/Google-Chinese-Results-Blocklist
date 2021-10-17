@@ -1,3 +1,13 @@
+personal list of [cobaltdisco](https://github.com/cobaltdisco)/[Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist)
+
+uBlacklist subscription
+
+```
+https://raw.githubusercontent.com/Wen-Tao-Zhang/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt
+```
+
+
+
 ## 中文搜索结果黑名单
 
 垃圾站点出现在 Google、百度的中文搜索结果中，实在是恶心——于是这个黑名单就这么出来了。
