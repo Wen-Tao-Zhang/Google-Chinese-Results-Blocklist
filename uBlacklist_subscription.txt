@@ -1479,3 +1479,4 @@
 
 *://cloud.tencent.com/*
 *://newbedev.com/*
+*://www.bookstack.cn/*
