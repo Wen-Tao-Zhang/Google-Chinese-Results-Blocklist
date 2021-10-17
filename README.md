@@ -2,7 +2,7 @@ Personalized (and aggressive) version of [cobaltdisco](https://github.com/cobalt
 
 
 
-uBlacklist subscription:
+[uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) subscription:
 
 ```
 https://raw.githubusercontent.com/Wen-Tao-Zhang/Google-Chinese-Results-Blocklist/master/uBlacklist_subscription.txt
