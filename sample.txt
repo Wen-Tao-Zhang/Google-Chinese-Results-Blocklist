@@ -8,3 +8,6 @@ https://www.bookstack.cn/read/git-doc-zh/docs-57.md
 
 https://itectec.com/superuser/windows-opening-smb-links-on-windows/
 抄自: https://superuser.com/questions/1064142/opening-smb-links-on-windows
+
+https://www.generacodice.com/en/articolo/2038949/what-does-a-single-exclamation-mark-do-in-yaml
+抄自: https://stackoverflow.com/questions/9664113/what-does-a-single-exclamation-mark-do-in-yaml

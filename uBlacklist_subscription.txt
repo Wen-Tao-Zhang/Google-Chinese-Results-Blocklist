@@ -1555,3 +1555,4 @@
 *://newbedev.com/*
 *://www.bookstack.cn/*
 *://itectec.com/*
+*://www.generacodice.com/*
