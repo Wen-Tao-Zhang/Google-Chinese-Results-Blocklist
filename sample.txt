@@ -11,3 +11,6 @@ https://itectec.com/superuser/windows-opening-smb-links-on-windows/
 
 https://www.generacodice.com/en/articolo/2038949/what-does-a-single-exclamation-mark-do-in-yaml
 抄自: https://stackoverflow.com/questions/9664113/what-does-a-single-exclamation-mark-do-in-yaml
+
+http://www.bubuko.com/infodetail-2982903.html
+抄自：https://www.cnblogs.com/kjkj/p/10505832.html

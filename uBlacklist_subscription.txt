@@ -1604,3 +1604,4 @@
 *://www.bookstack.cn/*
 *://itectec.com/*
 *://www.generacodice.com/*
+*://www.bubuko.com/*
