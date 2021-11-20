@@ -1,16 +1,2 @@
 个人新增垃圾站举例，有空统一PR至上游
 
-https://newbedev.com/git-what-is-a-dangling-commit-blob-and-where-do-they-come-from
-抄自: https://stackoverflow.com/questions/18514659/what-is-a-dangling-commit-and-a-blob-in-a-git-repository-and-where-do-they-come
-
-https://www.bookstack.cn/read/git-doc-zh/docs-57.md
-机翻man手册
-
-https://itectec.com/superuser/windows-opening-smb-links-on-windows/
-抄自: https://superuser.com/questions/1064142/opening-smb-links-on-windows
-
-https://www.generacodice.com/en/articolo/2038949/what-does-a-single-exclamation-mark-do-in-yaml
-抄自: https://stackoverflow.com/questions/9664113/what-does-a-single-exclamation-mark-do-in-yaml
-
-http://www.bubuko.com/infodetail-2982903.html
-抄自：https://www.cnblogs.com/kjkj/p/10505832.html
