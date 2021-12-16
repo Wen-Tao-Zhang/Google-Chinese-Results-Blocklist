@@ -1711,3 +1711,4 @@
 *://www.bubuko.com/*
 *://www.itcoder.tech/*
 *://developer.aliyun.com/*
+*://www.manongdao.com/*

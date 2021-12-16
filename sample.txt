@@ -3,3 +3,6 @@
 https://developer.aliyun.com/article/762186
 抄自：https://www.itcoder.tech/posts/how-to-install-xrdp-on-ubuntu-20-04/?spm=a2c6h.12873639.0.0.401c4581WN4TeA
 in turn 抄自：https://linuxize.com/post/how-to-install-xrdp-on-ubuntu-20-04/
+
+https://www.manongdao.com/article-1285475.html
+抄自：https://blog.csdn.net/I_LOVE_MCU/article/details/98512540
