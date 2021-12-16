@@ -1712,3 +1712,7 @@
 *://www.itcoder.tech/*
 *://developer.aliyun.com/*
 *://www.manongdao.com/*
+*://www.xiaopingtou.net/*
+*://bbs.elecfans.com/*
+*://respuestas.me/*
+*://askentire.net/*
