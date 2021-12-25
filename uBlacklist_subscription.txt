@@ -1795,3 +1795,8 @@
 *://3a4a5a.com/*
 *://zeldagames.net/*
 *://www.recoverusbdrive.com/*
+*://www.shellfishsoft.com/*
+*://www.jzsoft.net/*
+*://cedricsoft.com/*
+*://www.gamerfx.net/*
+*://gameboys.net/*
