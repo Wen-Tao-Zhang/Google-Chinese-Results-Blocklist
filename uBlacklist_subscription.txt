@@ -1749,6 +1749,7 @@
 *://fresh-weather.com/*
 *://gameboys.net/*
 *://gamerfx.net/*
+*://tdogsoftware.com/*
 *://tochanger.com/*
 *://www.1shequ.com/*
 *://www.3a4a5a.com/*
