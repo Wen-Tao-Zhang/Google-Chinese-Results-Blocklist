@@ -1809,3 +1809,17 @@
 *://*.yx-pc.net/*
 *://*.zeldagames.net/*
 
+*://*.html.cn/*
+*://*.pcxitongcheng.com/*
+*://*.10qianwan.com/*
+*://*.erlo.vip/*
+*://*.cppcns.com/*
+*://*.w3xue.com/*
+*://*.580doc.com/*
+*://*.dmzjwz.com/*
+*://*.syxyx.net/*
+
+*://*.codebaoku.com/it-re/it-re-173979.html
+*://*.linfenvolvo.com/
+*://*.jianboge.com/d180535
+*://*.ufcn.cn/
