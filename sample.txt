@@ -2,144 +2,115 @@
 
 ---
 
-https://developer.aliyun.com/article/762186
-
-https://www.itcoder.tech/posts/how-to-install-xrdp-on-ubuntu-20-04/?spm=a2c6h.12873639.0.0.401c4581WN4TeA
+- https://developer.aliyun.com/article/762186
+- https://www.itcoder.tech/posts/how-to-install-xrdp-on-ubuntu-20-04/?spm=a2c6h.12873639.0.0.401c4581WN4TeA
 
 以上均为[该页面](https://linuxize.com/post/how-to-install-xrdp-on-ubuntu-20-04/)机翻
 
----
-
-https://www.manongdao.com/article-1285475.html
+- https://www.manongdao.com/article-1285475.html
 
 抄自[该页面](https://blog.csdn.net/I_LOVE_MCU/article/details/98512540)
 
----
-
-https://www.xiaopingtou.net/q-29048.html
-
-https://bbs.elecfans.com/jishu_1655172_1_1.html
-
-https://respuestas.me/q/programando-un-nuevo-chip-stm-32-61945208929
-
-https://askentire.net/q/programmirovanie-novogo-chipa-stm-32-61945208929
+- https://www.xiaopingtou.net/q-29048.html
+- https://bbs.elecfans.com/jishu_1655172_1_1.html
+- https://respuestas.me/q/programando-un-nuevo-chip-stm-32-61945208929
+- https://askentire.net/q/programmirovanie-novogo-chipa-stm-32-61945208929
 
 以上均为[该页面](https://electronics.stackexchange.com/questions/330058/programming-a-new-stm32-chip)机翻
 
----
-
 以下都是同一篇讲PHP的文章，已经难以确定原始出处了。其中可以找到[早至2015年3月10号的一篇](https://www.jb51.net/article/61978.htm)，以下是晚于这一时间发表的，或坦白了就是抄的，被列入名单：
 
-https://www.ynpxrz.com/n979250c2023.aspx
-
-http://www.poluoluo.com/jzxy/201503/341307.html
-
-https://jc.chazidian.com/news351488/
-
-https://www.php.cn/php-weizijiaocheng-291680.html
-
-https://wenda.so.com/q/1461117728724533
-
-https://m.yisu.com/zixun/347567.html
-
-http://www.hao45.cc/article/290554.html
-
-http://twcomputer.wsxdn.com/programming/networkprogramming/php/201510/64819.html
-
-http://www.9aisf.com/article/290554.html
-
-https://www.yingtwo.com/article/674221.html
-
-https://www.itbaozang.com/phpcms/20775.html
-
-https://wellbay.cc/thread-1592439.htm
-
-https://www.bianchengquan.com/article/27570.html （面圈网）
-
----
+- https://www.ynpxrz.com/n979250c2023.aspx
+- http://www.poluoluo.com/jzxy/201503/341307.html
+- https://jc.chazidian.com/news351488/
+- https://www.php.cn/php-weizijiaocheng-291680.html
+- https://wenda.so.com/q/1461117728724533
+- https://m.yisu.com/zixun/347567.html
+- http://www.hao45.cc/article/290554.html
+- http://twcomputer.wsxdn.com/programming/networkprogramming/php/201510/64819.html
+- http://www.9aisf.com/article/290554.html
+- https://www.yingtwo.com/article/674221.html
+- https://www.itbaozang.com/phpcms/20775.html
+- https://wellbay.cc/thread-1592439.htm
+- https://www.bianchengquan.com/article/27570.html （面圈网）
 
 面圈网的若干个马甲
 
-www.mianquan.net
-
-www.mianshigee.com
-
----
+- www.mianquan.net
+- www.mianshigee.com
 
 以下都是同一篇讲JS的文章，[这里](https://blog.51cto.com/trigkit4/1546293)是（可能的）原贴，以下是晚于该贴发表的、或坦白了就是抄自该贴的：
 
-https://www.moregeek.xyz/i/155200367748
-
-https://nbatqn.com/wen/2020/02-27/538728.html
-
-http://www.hss19.cn/article/78834.html
-
-https://www.jb51.net/article/55845.htm （脚本之家）
-
-m.jb51.net是脚本之家的手机版，也可能出现在PC搜索结果中
+- https://www.moregeek.xyz/i/155200367748
+- https://nbatqn.com/wen/2020/02-27/538728.html
+- http://www.hss19.cn/article/78834.html
+- https://www.jb51.net/article/55845.htm （手机版m.jb51.net也被加入名单）
 
 ---
 
-https://www.nhooo.com/note/qaha8d.html
+- https://www.nhooo.com/note/qaha8d.html
 
 机翻自[该贴](https://www.tutorialspoint.com/meet-in-the-middle-in-java)
 
----
-
-https://www.cainiaojc.com/note/qagrps.html
+- https://www.cainiaojc.com/note/qagrps.html
 
 抄自[该贴](https://blog.csdn.net/Qaz_wz/article/details/70172327)
 
----
+- https://www.xinnet.com/knowledge 
 
 百家号式口水文
 
-https://www.xinnet.com/knowledge 
+- https://www.csdn.net/tags/MtzaEgzsNjMzNzctYmxvZwO0O0OO0O0O.html
 
----
+CSDN“内部搜索”，也就是Google搜索XXX，会出现非常匹配的结果，然而点进去是并不是某篇文章，而是CSDN的内部搜索列表
 
-CSDN“内部搜索”，也就是Google搜索XXX，会出现非常匹配的结果，然而点进去是并不是某篇文章，而CSDN的内部搜索列表
+- https://www.aliyun.com/sswd/6147718-1.html
 
-示例：https://www.csdn.net/tags/MtzaEgzsNjMzNzctYmxvZwO0O0OO0O0O.html
+阿里云关键词地图，情况类似前面
 
----
-
-阿里云关键词地图，情况同上
-
-示例：https://www.aliyun.com/sswd/6147718-1.html
-
----
-
-https://m.xp.cn/b.php/53952.html
+- https://m.xp.cn/b.php/53952.html
 
 抄都抄歪来了，可以对比[另一份抄得更完整的](https://topic.alibabacloud.com/tc/a/how-to-use-ps-to-synthesize-a-girl-running-in-a-rose-garden_8_8_10134170.html)
 
----
+- https://www.plygf.com/wen/2020/05-28/655558.html
 
-https://www.plygf.com/wen/2020/05-28/655558.html
+标题是IT相关的东西，内容已经是博彩网站
 
-标题是IT相关的东西，内容已经是菠菜网站
-
----
-
-https://www.jb51.cc/faq/916138.html
+- https://www.jb51.cc/faq/916138.html
 
 机翻自[该问答](https://stackoverflow.com/questions/273516/how-do-you-implement-a-good-profanity-filter/42573870#42573870)
 
-http://www.yiidian.com/questions/229109
+- http://www.yiidian.com/questions/229109
 
 机翻自[该问答](https://stackoverflow.com/questions/52412023/api-variant-getexternalnativebuildtasks-is-obsolete-and-has-been-replaced-wi)
 
----
-
-https://topic.alibabacloud.com/tc/a/the-script-home-has-modified-the-website-title-and-description_8_8_32425402.html
-
-https://www.it610.com/article/1175988198271168512.htm
-
-http://www.codeinn.net/misctech/63682.html
-
-https://www.xknote.com/tools/60f661bc314b1.html
+- https://topic.alibabacloud.com/tc/a/the-script-home-has-modified-the-website-title-and-description_8_8_32425402.html
+- https://www.it610.com/article/1175988198271168512.htm
+- http://www.codeinn.net/misctech/63682.html
+- https://www.xknote.com/tools/60f661bc314b1.html
 
 抄自[该贴](https://www.jb51.net/article/25566.htm)，处理了#99提到的问题
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
