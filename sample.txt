@@ -28,7 +28,7 @@ https://askentire.net/q/programmirovanie-novogo-chipa-stm-32-61945208929
 
 ---
 
-以下都是同一篇讲PHP的文章，已经难以确定原始出处了。其中可以找到[早至2015年3月10号的一篇](https://www.jb51.net/article/61978.htm)，以下是晚于这一时间发表的，被列入名单：
+以下都是同一篇讲PHP的文章，已经难以确定原始出处了。其中可以找到[早至2015年3月10号的一篇](https://www.jb51.net/article/61978.htm)，以下是晚于这一时间发表的，或坦白了就是抄的，被列入名单：
 
 https://www.ynpxrz.com/n979250c2023.aspx
 
@@ -49,6 +49,10 @@ http://twcomputer.wsxdn.com/programming/networkprogramming/php/201510/64819.html
 http://www.9aisf.com/article/290554.html
 
 https://www.yingtwo.com/article/674221.html
+
+https://www.itbaozang.com/phpcms/20775.html
+
+https://wellbay.cc/thread-1592439.htm
 
 https://www.bianchengquan.com/article/27570.html （面圈网）
 
@@ -92,5 +96,50 @@ https://www.cainiaojc.com/note/qagrps.html
 
 https://www.xinnet.com/knowledge 
 
+---
+
+CSDN“内部搜索”，也就是Google搜索XXX，会出现非常匹配的结果，然而点进去是并不是某篇文章，而CSDN的内部搜索列表
+
+示例：https://www.csdn.net/tags/MtzaEgzsNjMzNzctYmxvZwO0O0OO0O0O.html
+
+---
+
+阿里云关键词地图，情况同上
+
+示例：https://www.aliyun.com/sswd/6147718-1.html
+
+---
+
+https://m.xp.cn/b.php/53952.html
+
+抄都抄歪来了，可以对比[另一份抄得更完整的](https://topic.alibabacloud.com/tc/a/how-to-use-ps-to-synthesize-a-girl-running-in-a-rose-garden_8_8_10134170.html)
+
+---
+
+https://www.plygf.com/wen/2020/05-28/655558.html
+
+标题是IT相关的东西，内容已经是菠菜网站
+
+---
+
+https://www.jb51.cc/faq/916138.html
+
+机翻自[该问答](https://stackoverflow.com/questions/273516/how-do-you-implement-a-good-profanity-filter/42573870#42573870)
+
+http://www.yiidian.com/questions/229109
+
+机翻自[该问答](https://stackoverflow.com/questions/52412023/api-variant-getexternalnativebuildtasks-is-obsolete-and-has-been-replaced-wi)
+
+---
+
+https://topic.alibabacloud.com/tc/a/the-script-home-has-modified-the-website-title-and-description_8_8_32425402.html
+
+https://www.it610.com/article/1175988198271168512.htm
+
+http://www.codeinn.net/misctech/63682.html
+
+https://www.xknote.com/tools/60f661bc314b1.html
+
+抄自[该贴](https://www.jb51.net/article/25566.htm)，处理了#99提到的问题
 
 

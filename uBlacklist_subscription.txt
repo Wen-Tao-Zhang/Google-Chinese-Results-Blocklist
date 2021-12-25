@@ -1726,6 +1726,8 @@
 *://twcomputer.wsxdn.com/*
 *://www.9aisf.com/*
 *://www.yingtwo.com/*
+*://www.itbaozang.com/*
+*://wellbay.cc/*
 *://www.bianchengquan.com/*
 *://www.mianquan.net/*
 *://www.mianshigee.com/*
@@ -1737,6 +1739,16 @@
 *://www.nhooo.com/*
 *://www.cainiaojc.com/*
 *://www.xinnet.com/knowledge/*
+*://www.csdn.net/tags/*
+*://www.aliyun.com/sswd/*
+*://m.xp.cn/b.php/*
+*://www.plygf.com/*
+*://www.jb51.cc/*
+*://www.yiidian.com/*
+*://topic.alibabacloud.com/*
+*://www.it610.com/*
+*://www.codeinn.net/*
+*://www.xknote.com/*
 
 *://1download.net/*
 *://1shequ.com/*
