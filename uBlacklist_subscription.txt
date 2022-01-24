@@ -1819,6 +1819,9 @@
 *://*.dmzjwz.com/*
 *://*.syxyx.net/*
 
+*://*.syskp.com/*
+*://*.cupoane.net/*
+
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/
 *://*.jianboge.com/d180535
