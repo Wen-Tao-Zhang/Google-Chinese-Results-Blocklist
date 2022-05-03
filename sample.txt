@@ -16,6 +16,9 @@
 [原贴](https://download.csdn.net/download/weixin_38500944/12932204)
 - http://syxyx.net/download_/download/weixin_38500944/12932204 （抄了CSDN整个下载区）
 
+[原贴](https://stackoverflow.com/questions/1580596/how-do-i-make-git-ignore-file-mode-chmod-changes)
+- https://intellipaat.com/community/6563/how-do-i-make-git-ignore-file-mode-chmod-changes
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/

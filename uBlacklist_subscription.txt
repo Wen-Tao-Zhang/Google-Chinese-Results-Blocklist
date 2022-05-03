@@ -1818,6 +1818,7 @@
 *://*.580doc.com/*
 *://*.dmzjwz.com/*
 *://*.syxyx.net/*
+*://*.intellipaat.com/*
 
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/
