@@ -1819,6 +1819,7 @@
 *://*.dmzjwz.com/*
 *://*.syxyx.net/*
 *://*.intellipaat.com/*
+*://*.blog.css8.cn/*
 
 *://*.syskp.com/*
 *://*.cupoane.net/*
