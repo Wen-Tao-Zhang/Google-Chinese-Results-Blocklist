@@ -1820,6 +1820,7 @@
 *://*.syxyx.net/*
 *://*.intellipaat.com/*
 *://*.blog.css8.cn/*
+*://62.234.115.194/*
 
 *://*.syskp.com/*
 *://*.cupoane.net/*
