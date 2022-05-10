@@ -1821,6 +1821,11 @@
 *://*.intellipaat.com/*
 *://*.blog.css8.cn/*
 *://62.234.115.194/*
+*://*.copyfuture.com/*
+*://*.796t.com/*
+*://*.yaowenming.com/*
+*://*.toutiao.io/*
+*://*.codingnote.cc/*
 
 *://*.syskp.com/*
 *://*.cupoane.net/*
