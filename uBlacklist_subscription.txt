@@ -1826,6 +1826,7 @@
 *://*.yaowenming.com/*
 *://*.toutiao.io/*
 *://*.codingnote.cc/*
+*://*.code-examples.net/*
 
 *://*.syskp.com/*
 *://*.cupoane.net/*

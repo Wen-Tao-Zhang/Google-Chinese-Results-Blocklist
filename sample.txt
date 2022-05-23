@@ -32,6 +32,9 @@
 - https://toutiao.io/posts/2g62afs
 - https://codingnote.cc/zh-tw/p/329134/
 
+[原贴](https://stackoverflow.com/questions/13702117/how-can-i-handle-map-move-end-using-google-maps-for-android-v2)
+- https://code-examples.net/zh-CN/q/d113e5
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/
