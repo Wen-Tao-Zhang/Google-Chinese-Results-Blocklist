@@ -35,6 +35,9 @@
 [原贴](https://stackoverflow.com/questions/13702117/how-can-i-handle-map-move-end-using-google-maps-for-android-v2)
 - https://code-examples.net/zh-CN/q/d113e5
 
+[原贴](https://stackoverflow.com/questions/63550156/debugging-xv6-kernel-with-gdb-selected-architecture-i386-is-not-compatible-wit)
+- https://www.codegrepper.com/code-examples/whatever/warning%3A+Selected+architecture+i386+is+not+compatible+with+reported+target+architecture+i386%3Ax86-64
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/

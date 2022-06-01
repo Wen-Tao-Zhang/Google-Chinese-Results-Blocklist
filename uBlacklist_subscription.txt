@@ -1827,6 +1827,7 @@
 *://*.toutiao.io/*
 *://*.codingnote.cc/*
 *://*.code-examples.net/*
+*://*.codegrepper.com/*
 
 *://*.syskp.com/*
 *://*.cupoane.net/*
