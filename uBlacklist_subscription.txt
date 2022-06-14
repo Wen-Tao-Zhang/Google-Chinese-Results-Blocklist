@@ -1828,7 +1828,7 @@
 *://*.codingnote.cc/*
 *://*.code-examples.net/*
 *://*.codegrepper.com/*
-
+*://*.spacepatroldelta.com/*
 *://*.syskp.com/*
 *://*.cupoane.net/*
 
