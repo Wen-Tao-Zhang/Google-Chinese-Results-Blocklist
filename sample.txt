@@ -41,6 +41,9 @@
 [原贴](https://blog.csdn.net/u014470361/article/details/81175817)
 - https://blog.spacepatroldelta.com/a?ID=01800-0fd37362-a5de-4c55-86e5-ffd75111aea1
 
+[原贴](https://superuser.com/questions/812438/combine-batch-wmic-ansi-unicode-output-formatting)
+- https://mlog.club/article/4871117
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/

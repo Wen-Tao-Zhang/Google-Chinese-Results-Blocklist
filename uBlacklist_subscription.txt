@@ -1828,9 +1828,10 @@
 *://*.codingnote.cc/*
 *://*.code-examples.net/*
 *://*.codegrepper.com/*
-*://*.spacepatroldelta.com/*
 *://*.syskp.com/*
 *://*.cupoane.net/*
+*://*.spacepatroldelta.com/*
+*://*.mlog.club/*
 
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/
