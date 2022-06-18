@@ -44,6 +44,9 @@
 [原贴](https://superuser.com/questions/812438/combine-batch-wmic-ansi-unicode-output-formatting)
 - https://mlog.club/article/4871117
 
+[原贴](https://unix.stackexchange.com/questions/643393/how-to-add-a-custom-root-certificate-ms-edge-on-linux)
+- https://unix.forumming.com/question/1727/how-to-add-a-custom-root-certificate-ms-edge-on-linux
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/
