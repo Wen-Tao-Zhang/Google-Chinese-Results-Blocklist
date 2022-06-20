@@ -1833,6 +1833,7 @@
 *://*.spacepatroldelta.com/*
 *://*.mlog.club/*
 *://*.forumming.com/*
+*://*.it-hell.com/*
 
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/

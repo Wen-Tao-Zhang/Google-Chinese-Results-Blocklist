@@ -47,6 +47,9 @@
 [原贴](https://unix.stackexchange.com/questions/643393/how-to-add-a-custom-root-certificate-ms-edge-on-linux)
 - https://unix.forumming.com/question/1727/how-to-add-a-custom-root-certificate-ms-edge-on-linux
 
+[原贴](https://www.reddit.com/r/VFIO/comments/hlpw2k/failed_to_connect_socket_to/)
+- https://it-hell.com/question/62360
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/
