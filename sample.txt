@@ -50,6 +50,17 @@
 [原贴](https://www.reddit.com/r/VFIO/comments/hlpw2k/failed_to_connect_socket_to/)
 - https://it-hell.com/question/62360
 
+[原贴](https://mp.weixin.qq.com/s/SlSKjm8YUx2cgJeaa5HvfA)
+- https://www.sobyte.net/post/2022-04/ebpf/
+- https://www.modb.pro/db/391570
+- https://dev-docs.csdn.net/articles/e5e3d5ccebe9466c8468798262ccbd4e/qemu-linux-java
+- https://icode.best/i/85940046325364
+- https://www.ai2news.com/blog/1629709/
+
+头条“套娃搜索”，也就是Google搜索XXX，会出现非常匹配的结果，然而点进去是并不是某篇文章，而是头条的搜索列表
+- https://so.toutiao.com/
+- https://m.toutiao.com/
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/

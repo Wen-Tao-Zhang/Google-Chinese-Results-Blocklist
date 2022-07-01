@@ -1834,6 +1834,12 @@
 *://*.mlog.club/*
 *://*.forumming.com/*
 *://*.it-hell.com/*
+*://*.www.sobyte.net/*
+*://*.www.modb.pro/*
+*://*.dev-docs.csdn.net/*
+*://*.icode.best/*
+*://*.www.ai2news.com/*
+*://*.toutiao.com/*
 
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/
