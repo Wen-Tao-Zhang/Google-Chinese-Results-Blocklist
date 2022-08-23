@@ -61,6 +61,9 @@
 - https://so.toutiao.com/
 - https://m.toutiao.com/
 
+[原贴](https://github.com/microsoft/vscode/issues/50045)
+- https://lightrun.com/answers/microsoft-vscode-feature-request-treat-the-chinese-text-as-a-chinese-sequence-when-usingctrlleftright
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/

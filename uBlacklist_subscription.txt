@@ -1840,6 +1840,7 @@
 *://*.icode.best/*
 *://*.www.ai2news.com/*
 *://*.toutiao.com/*
+*://*.lightrun.com/*
 
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/
