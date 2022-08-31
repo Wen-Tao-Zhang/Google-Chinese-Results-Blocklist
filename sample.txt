@@ -64,6 +64,9 @@
 [原贴](https://github.com/microsoft/vscode/issues/50045)
 - https://lightrun.com/answers/microsoft-vscode-feature-request-treat-the-chinese-text-as-a-chinese-sequence-when-usingctrlleftright
 
+[原贴](https://stackoverflow.com/questions/57692438/what-are-the-addresses-on-the-left-in-the-output-of-objdump-on-a-binary-file)
+- https://www.anycodings.com/questions/what-are-the-addresses-on-the-left-in-the-output-of-objdump-on-a-binary-file
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/
