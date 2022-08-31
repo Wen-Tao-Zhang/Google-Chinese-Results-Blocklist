@@ -67,6 +67,9 @@
 [原贴](https://stackoverflow.com/questions/57692438/what-are-the-addresses-on-the-left-in-the-output-of-objdump-on-a-binary-file)
 - https://www.anycodings.com/questions/what-are-the-addresses-on-the-left-in-the-output-of-objdump-on-a-binary-file
 
+[原贴](https://stackoverflow.com/questions/60905135/how-to-interpret-objdump-disassembly-output-columns)
+- https://jike.in/qa/?qa=687296/
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/

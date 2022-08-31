@@ -1842,6 +1842,7 @@
 *://*.toutiao.com/*
 *://*.lightrun.com/*
 *://*.anycodings.com/*
+*://*.jike.in/*
 
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/
