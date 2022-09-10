@@ -70,6 +70,9 @@
 [原贴](https://stackoverflow.com/questions/60905135/how-to-interpret-objdump-disassembly-output-columns)
 - https://jike.in/qa/?qa=687296/
 
+[原贴](https://stackoverflow.com/questions/31270657/what-does-emit-mean-in-general-computer-science-terms)
+- https://exchangetuts.com/what-does-emit-mean-in-general-computer-science-terms-1639809968483454
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/

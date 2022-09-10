@@ -1843,6 +1843,7 @@
 *://*.lightrun.com/*
 *://*.anycodings.com/*
 *://*.jike.in/*
+*://*.exchangetuts.com/*
 
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/
