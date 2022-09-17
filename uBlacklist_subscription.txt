@@ -1844,6 +1844,7 @@
 *://*.anycodings.com/*
 *://*.jike.in/*
 *://*.exchangetuts.com/*
+*://*.solveforum.com/*
 
 *://*.codebaoku.com/it-re/it-re-173979.html
 *://*.linfenvolvo.com/

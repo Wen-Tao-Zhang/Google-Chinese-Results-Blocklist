@@ -73,6 +73,9 @@
 [原贴](https://stackoverflow.com/questions/31270657/what-does-emit-mean-in-general-computer-science-terms)
 - https://exchangetuts.com/what-does-emit-mean-in-general-computer-science-terms-1639809968483454
 
+[原贴](https://stackoverflow.com/questions/70515788/booting-xv6-with-qemu)
+- https://solveforum.com/forums/threads/solved-booting-xv6-with-qemu.507188/#post-507254
+
 无石锤：
 http://www.codebaoku.com/it-re/it-re-173979.html
 https://linfenvolvo.com/
